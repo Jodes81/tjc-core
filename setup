@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# cp ~/tjc/core/misc/tjc-core.service /etc/systemd/system/
+# systemctl enable tjc-core.service
+# systemctl start tjc-core.service
+# systemctl status tjc-core.service

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/bin/local/node /root/tjc/core/node/server.js
+
