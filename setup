@@ -1,5 +1,7 @@
 #!/bin/bash
 
+chmod 0755 /root/tjc/core/setdown
+
 # cp ~/tjc/core/misc/tjc-core.service /etc/systemd/system/
 # systemctl enable tjc-core.service
 # systemctl start tjc-core.service
